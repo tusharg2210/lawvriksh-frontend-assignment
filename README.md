@@ -6,7 +6,7 @@ To run this project locally, you'll need to have Node.js and npm (or yarn) insta
 
 ### Clone the repository:
 ```
-git clone <your-repo-url>
+git clone https://github.com/tusharg2210/lawvriksh-frontend-assignment
 cd lawvriksh-frontend-assignment
 ```
 ### Install dependencies:
