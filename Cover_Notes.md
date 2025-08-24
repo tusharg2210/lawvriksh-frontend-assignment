@@ -1,0 +1,6 @@
+# Cover Note & PR Summary
+This submission delivers a fully responsive and interactive analytics dashboard built with React, Tailwind CSS, and Recharts.
+
+The initial phase focused on a faithful implementation of the provided Figma design. The core objective was to establish a strong, user-friendly foundation by applying key UX principles. The Law of Proximity was used to group related data into clear, digestible cards, while the Aesthetic-Usability Effect guided the overall clean and modern visual language. The component-based architecture is organized, scalable, and easy to maintain.
+
+The second phase introduced a layer of polish through purposeful micro-interactions. These are not merely decorative; they are designed to enhance usability. For instance, hover effects on buttons and chart elements provide immediate feedback (Fitts's Law), while animated progress bars and interactive tooltips guide user attention and allow for progressive disclosure of information (Hick's Law). The result is an interface that is not only functional and informative but also engaging and intuitive to navigate.
